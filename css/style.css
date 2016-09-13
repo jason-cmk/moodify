@@ -53,3 +53,10 @@ input#my-file-selector {
 h4#track-name {
     display:none;
 }
+.fb-comments {
+    background-color: white;
+    opacity: 60%;
+}
+.fb-container {
+    text-align: center;
+}
